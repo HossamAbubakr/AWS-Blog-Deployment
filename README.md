@@ -13,7 +13,7 @@
 
 ## Summary
 
-This static personal travel blog was deployed to AWS as part of my AWS Cloud Developer Nanodegree from Udacity.
+This static personal travel blog was deployed to AWS as part of my **AWS Cloud Developer Nanodegree from Udacity**.
 
 It demonstrates my understanding and ability to configure the following services:  
 AWS Buckets  
