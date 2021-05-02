@@ -18,7 +18,7 @@ This static personal travel blog was deployed to AWS as part of my **AWS Cloud D
 It demonstrates my understanding and ability to configure the following services:  
 AWS Buckets  
 AWS Policies  
-AWS CloudFron  
+AWS CloudFront  
 AWS Static Website Hosting
 
 ## Technologies
